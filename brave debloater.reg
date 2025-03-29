@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00  
+
+[HKEY_LOCAL_MACHINE\Software\Policies\BraveSoftware\Brave]  
+"BraveRewardsDisabled"=dword:00000001  
+"BraveWalletDisabled"=dword:00000001  
+"BraveVPNDisabled"=dword:00000001  
+"BraveAIChatEnabled"=dword:00000000  
+"PasswordManagerEnabled"=dword:00000000  
+"TorDisabled"=dword:00000001  
+"DnsOverHttpsMode"="automatic"  
+"DnsOverHttpsTemplates"="https://cloudflare-dns.com/dns-query"  
+"AutofillAddressEnabled"=dword:00000000
+"AutofillCreditCardEnabled"=dword:00000000
+"MediaRecommendationsEnabled"=dword:00000000
+"ShoppingListEnabled"=dword:00000000
+"TranslateEnabled"=dword:00000000
+"SpellCheckServiceEnabled"=dword:00000000
+"PromotionsEnabled"=dword:00000000
+"WebRtcIPHandling"="disable_non_proxied_udp"
+"QuicAllowed"=dword:00000000
+"BlockThirdPartyCookies"=dword:00000001
+"SafeBrowsingProtectionLevel"=dword:00000000
+"MetricsReportingEnabled"=dword:00000000
+"SafeBrowsingExtendedReportingEnabled"=dword:00000000
+"UrlKeyedAnonymizedDataCollectionEnabled"=dword:00000000
+"FeedbackSurveysEnabled"=dword:00000000
