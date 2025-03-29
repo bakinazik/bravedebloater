@@ -1,5 +1,5 @@
 # Brave Debloater
-Debloat list that cares about privacy and security and preserves functionality.
+A debloat list that protects your privacy and security while maintaining functionality.
 
 ## What it does?
 
