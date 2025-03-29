@@ -1,2 +1,2 @@
-# bravedebloater
+# Brave Debloater
 Debloat list that cares about privacy and security and preserves functionality.
