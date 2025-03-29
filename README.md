@@ -26,3 +26,8 @@ Debloat list that cares about privacy and security and preserves functionality.
 - **Safe Browsing Extended Reporting** disabled.
 - **URL Keyed Anonymized Data Collection** disabled.
 - **Feedback Surveys** disabled.
+
+## Suggestions
+
+- **Translate**: [Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate) or [TWP](https://github.com/FilipePS/Traduzir-paginas-web)
+- **Password Manager**: [Bitwarden](https://github.com/bitwarden/clients)
