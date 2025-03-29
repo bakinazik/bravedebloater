@@ -30,5 +30,5 @@ Debloat list that cares about privacy and security and preserves functionality.
 ## Suggestions
 
 - **Translate**: [Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate) or [TWP](https://github.com/FilipePS/Traduzir-paginas-web)
-- **Password Manager**: [Bitwarden](https://github.com/bitwarden/clients)
+- **Password Manager**: [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-parola-y%C3%B6netici/nngceckbapebfimnlniiiahkandclblb)
 - **Reopen Faster**: [Lightning Reopen V3](https://chromewebstore.google.com/detail/lightning-reopen-v3/egchpomclkbegdfgkdmhmbhpanlahoda)
