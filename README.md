@@ -7,6 +7,7 @@ A debloat list that protects your privacy and security while maintaining functio
 - **Brave Wallet** disabled.
 - **Brave VPN** disabled.
 - **Brave AI Chat** disabled.
+- **Brave Shields** disabled.
 - **Password Manager** disabled.
 - **Tor** disabled.
 - **DNS Over HTTPS Mode** set to `automatic`.
