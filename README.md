@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/66330013-9cc9-4a9b-8ba9-cfda5b6340dd" width="120" />
+
 # Brave Debloater
 A debloat list that protects your privacy and security while maintaining functionality.
 
