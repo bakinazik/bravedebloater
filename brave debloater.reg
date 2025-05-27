@@ -14,6 +14,7 @@ Windows Registry Editor Version 5.00
 "BlockThirdPartyCookies"=dword:00000001
 "EnableDoNotTrack"=dword:00000001
 "IPFSEnabled"=dword:00000000
+"MediaRecommendationsEnabled"=dword:00000000
 "BraveRewardsDisabled"=dword:00000001
 "BraveWalletDisabled"=dword:00000001
 "BraveVPNDisabled"=dword:00000001
