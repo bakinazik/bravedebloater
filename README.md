@@ -1,8 +1,5 @@
-# Depreciated
-You can use [Slimbrave](https://github.com/ltx0101/SlimBrave)
-
-# ~Brave Debloater~
-~A debloat list that protects your privacy and security while maintaining functionality.~
+# Brave Debloater
+A debloat list that protects your privacy and security while maintaining functionality.
 
 ## What it does?
 
