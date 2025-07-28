@@ -34,6 +34,6 @@ A debloat list that protects your privacy and security while maintaining functio
 
 - **Adblock**: [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or [Adguard](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 - **Translate**: [Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate) or [TWP](https://github.com/FilipePS/Traduzir-paginas-web)
-- **Password Manager**: [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-parola-y%C3%B6netici/nngceckbapebfimnlniiiahkandclblb)
+- **Password Manager**: [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-parola-y%C3%B6netici/nngceckbapebfimnlniiiahkandclblb) or [Proton Pass](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde)
 - **VPN**: [Proton VPN](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa)
 - **Reopen Faster**: [Lightning Reopen V3](https://chromewebstore.google.com/detail/lightning-reopen-v3/egchpomclkbegdfgkdmhmbhpanlahoda)
